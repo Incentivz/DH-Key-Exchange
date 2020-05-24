@@ -1,0 +1,6 @@
+Files:
+- dh-alice1.go: The first step of the DHKE
+- dh-bob.go: The second step of the DHKE
+- dh-alice2.go: the second step of the DHKE
+- dh-brute.go: the brute force attack of DHKE
+- dh-eff.go: the Pollard-Rho attack of DHKE
